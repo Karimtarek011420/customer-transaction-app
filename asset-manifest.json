@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/customer-transaction-app/static/css/main.eec118ae.css",
+    "main.js": "/customer-transaction-app/static/js/main.98d57a73.js",
+    "static/js/453.ba41b2ca.chunk.js": "/customer-transaction-app/static/js/453.ba41b2ca.chunk.js",
+    "index.html": "/customer-transaction-app/index.html",
+    "main.eec118ae.css.map": "/customer-transaction-app/static/css/main.eec118ae.css.map",
+    "main.98d57a73.js.map": "/customer-transaction-app/static/js/main.98d57a73.js.map",
+    "453.ba41b2ca.chunk.js.map": "/customer-transaction-app/static/js/453.ba41b2ca.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.eec118ae.css",
+    "static/js/main.98d57a73.js"
+  ]
+}
